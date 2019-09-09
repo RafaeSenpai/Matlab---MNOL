@@ -1,3 +1,4 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/EEUMLOGO.png" alt="Sistemas Distribuidos - Rafael Alves" align="right"/>
 <h1>MNOL - Métodos Numéricos e Otimização Não Linear</h1><br><br><br>
 <h2>Objectivos de aprendizagem</h2><br>
 - Utilizar software específico (MATLAB) na resolução de problemas.<br>
