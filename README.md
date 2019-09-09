@@ -9,9 +9,9 @@
 - Utilizar os métodos numéricos em problemas de Engenharia Informática;
 <br><br>
 <b2>Conteúdos programáticos</h2><br>
-- Erros em cálculo numérico. 
-- Métodos directos para sistemas de equações lineares. 
-- Métodos iterativos para equações não lineares. 
-- Aproximação de funções por polinómios interpoladores e por "Splines" cúbicas.
-- Integração numérica. Aproximação dos mínimos quadrados (linear). 
+- Erros em cálculo numérico. <br>
+- Métodos directos para sistemas de equações lineares. <br>
+- Métodos iterativos para equações não lineares. <br>
+- Aproximação de funções por polinómios interpoladores e por "Splines" cúbicas.<br>
+- Integração numérica. Aproximação dos mínimos quadrados (linear). <br>
 - Métodos de otimização para problemas não lineares sem restrições, com e sem derivadas.
