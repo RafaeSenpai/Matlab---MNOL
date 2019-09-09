@@ -9,7 +9,7 @@
 - Compreender, escolher e utilizar o método de otimização mais adequado a um problema específico;<br>
 - Utilizar os métodos numéricos em problemas de Engenharia Informática;
 <br><br>
-<b2>Conteúdos programáticos</h2><br>
+<h2>Conteúdos programáticos</h2><br>
 - Erros em cálculo numérico. <br>
 - Métodos directos para sistemas de equações lineares. <br>
 - Métodos iterativos para equações não lineares. <br>
